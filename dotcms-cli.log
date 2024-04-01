@@ -1,0 +1,10 @@
+2024-04-01 19:39:09,145 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 19:39:09,159 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 19:39:09,159 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/dcolina/dotcms-projects/white-spaces
+2024-04-01 19:39:09,169 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] WARN  [com.dot.api.DefaultAuthenticationContextImpl] (executor-thread-0) No token found for user admin@dotcms.com
+2024-04-01 19:39:09,926 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 19:39:09,927 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/dcolina/dotcms-projects/white-spaces
+2024-04-01 19:39:10,436 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 19:39:10,436 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/dcolina/dotcms-projects/white-spaces
+2024-04-01 19:39:10,951 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.cli.com.DotExecutionStrategy] (main) Executing command: pull
+2024-04-01 19:39:10,951 daniels-mbp NativeImageGeneratorRunner$JDK9Plus[9342] INFO  [com.dot.com.WorkspaceManagerImpl] (main) Found workspace at: /Users/dcolina/dotcms-projects/white-spaces
